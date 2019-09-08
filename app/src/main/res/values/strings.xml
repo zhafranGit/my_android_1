@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Dicoding</string>
+    <string name="move_activity">pindah activity</string>
+    <string name="move_with_data">pindah activity dengan data</string>
+    <string name="dial_number"> dial a number</string>
+    <string name="data_received">data diterima</string>
+    <string name="this_is_moveactivity"> ini moveActivity</string>
+</resources>
